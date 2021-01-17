@@ -398,7 +398,7 @@
 + __C99 Standartları ile Eklenen Önemli Öğeler__
 	+ long long veri türü 
 	+ for döngü deyiminde yapılan bildirimler
-	+ _Bool anahtar sözcüğü ve <stdbool.h> başlık dosaysı
+	+ _Bool anahtar sözcüğü ve <stdbool.h> başlık dosyası
 	+ <stdint.h> başlık dosyası ve standart tür eş isimleri
 	+ inline fonksiyonlar (inline functions)
 	+ değişken boyutlu diziler (variable length arrays)
